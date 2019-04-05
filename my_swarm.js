@@ -2,7 +2,6 @@ var fs = require('fs');
 var fetch = require('node-fetch');
 
 // replace with your personal access token. 
-var personalAccessToken = '0/bb57fe8aa50f3ff99369c022d8219f3f';
 
 // Making an array of project IDs
 var projectIds = [877745135554818,
